@@ -91,7 +91,7 @@ public class Player : MonoBehaviour
 
                 forceX = standing ? newSpeed : (newSpeed * airSpeedMultiplier);
 
-                renderer2D.flipX = forceX < 0;
+                renderer2D.flipX = forceX > 0;
             }
 
             animator.SetInteger("AnimState", 1); //Set the animation state for horizontal movement
