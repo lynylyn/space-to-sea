@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 93d02c15d2e3c0f4ab65e4d30cdbe6bb
+guid: 6ceb6e94c5dee3e41837bf17092a0091
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2587072196451074223
-    second: TITLESCREEN_0
+      213: 4861169577613077772
+    second: Splashscreen Background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TITLESCREEN_0
+      name: Splashscreen Background_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 4096
+        width: 5056
         height: 2048
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15f7e325b8fd81cd0800000000000000
-      internalID: -2587072196451074223
+      spriteID: c0d209aa9f7567340800000000000000
+      internalID: 4861169577613077772
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TITLESCREEN_0: -2587072196451074223
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
