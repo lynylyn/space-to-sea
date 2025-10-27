@@ -1181,7 +1181,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.5
   m_LinearDamping: 4
   m_AngularDamping: 2
   m_GravityScale: 15
@@ -1221,9 +1221,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dab628793b70974e8e7de4a993fdfec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 160
+  speed: 80
   maxVelocity: {x: 300, y: 200}
-  jetSpeed: 4500
+  jetSpeed: 2300
   standing: 0
   standingThreshold: 4
   airSpeedMultiplier: 0.3
