@@ -47,7 +47,7 @@ public class Player : MonoBehaviour
           
         // Access the player's Y-axis position
         float playerYPosition = transform.position.y;
-        if (playerYPosition < -45)  //Check if the player has fallen below a certain position on the screen and return to the Splash Screen if true
+        if (playerYPosition < -85)  //Check if the player has fallen below a certain position on the screen and return to the Splash Screen if true
         {
             SceneManager.LoadScene("SplashScreen");
         }
